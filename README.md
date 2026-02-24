@@ -1,15 +1,15 @@
 # Expense Tracker Application
 
-A simple Python command-line expense management system that allows users to track daily expenses, categorize them, and view monthly summaries. Data is stored using file handling for persistent storage.
+A simple Python command-line expense management system that allows users to track daily expenses, categorise them, and view monthly summaries. Data is stored using file handling for persistent storage.
 
 ## Features
 
 - Add new expenses
-- Categorize expenses (Food, Travel, etc.)
+- Categorise expenses (Food, Travel, etc.)
 - View all recorded expenses
 - View total expenses
 - Generate monthly summary
-- Persistent storage using text file
+- Persistent storage using a text file
 
 ## Technologies Used
 
@@ -22,10 +22,10 @@ A simple Python command-line expense management system that allows users to trac
 
 Expenses are stored in this format:
 
-date,category,amount,description
+date, category, amount, description
 
 Example:
-2026-02-24,Food,250,Lunch
+2026-02-24, Food,250, Lunch
 
 ## How to Run
 
